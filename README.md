@@ -17,4 +17,9 @@ How to install:
 - Wait till app installs again
 - You are ready to go
 
+|                                                     |                                                     |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![IMG_20231212_134506](https://github.com/mariusrdv/JeepAARelease/assets/1947733/4742800f-e283-46da-a4c3-e9e29213feb0) | ![IMG_20231212_134519](https://github.com/mariusrdv/JeepAARelease/assets/1947733/a683226f-ecac-4a3b-9688-86b819b8dfe8) |
+| ![IMG_20231212_134553](https://github.com/mariusrdv/JeepAARelease/assets/1947733/57dee761-5838-4279-a21e-0afd506a9c12) | ![IMG_20231212_134607](https://github.com/mariusrdv/JeepAARelease/assets/1947733/f6d74029-c409-4655-b1db-746d67405b64) |
+| ![IMG_20231212_134439](https://github.com/mariusrdv/JeepAARelease/assets/1947733/fa4dbc04-2742-49fe-94e6-529e7c8a75ed) | ![IMG_20231212_134456](https://github.com/mariusrdv/JeepAARelease/assets/1947733/5ee5c6d2-d4e5-4267-98c4-c4a8f4046290) |
 

@@ -5,6 +5,13 @@ JeepAA - intended for use with ELM327 bluetooth device + android device + Uconne
 - Bluetooth device: Vgate vLinker MC+ (should be ok and cheap ELM327 1.5)
 - Android device: Xiaomi Note 10 pro (Android 13). App supports Android 9 and up.
 
+Enable unknown sources
+- Open Android Auto on phone
+- Click hamburger icon at top left -> Settings
+- Scroll to Version at bottom and tap ~10 times to unlock Developer Mode
+- Click kebab icon at top right -> Developer settings
+- Scroll to bottom and enable “Unknown sources”
+
 How to install:
 - Download latest app apk file from release section JeepAA-xxx-signed.apk (https://github.com/mariusrdv/JeepAARelease/releases)
 - Copy to device

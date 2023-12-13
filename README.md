@@ -1,9 +1,9 @@
 # JeepAA
 JeepAA - intended for use with ELM327 bluetooth device + android device + Uconnect infotainment system (Panasonic manufacturer with android auto support).
 
-Tested only with Jeep Cherokee 2019 Limited, 2.0L turbo, ZF9 gearbox, Uconnect 8.4
-Bluetooth device: Vgate vLinker MC+ (should be ok and cheap ELM327 1.5)
-Android device: Xiaomi Note 10 pro (Android 13). App supports Android 9 and up.
+- Tested only with Jeep Cherokee 2019 Limited, 2.0L turbo, ZF9 gearbox, Uconnect 8.4
+- Bluetooth device: Vgate vLinker MC+ (should be ok and cheap ELM327 1.5)
+- Android device: Xiaomi Note 10 pro (Android 13). App supports Android 9 and up.
 
 How to install:
 - Download latest app apk file from release section JeepAA-xxx-signed.apk (https://github.com/mariusrdv/JeepAARelease/releases)

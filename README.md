@@ -1,4 +1,4 @@
-# JeepAA
+# JeepAA(Jeep android auto)
 JeepAA - intended for use with ELM327 bluetooth device + android device + Uconnect infotainment system (Panasonic manufacturer with android auto support).
 
 - Tested only with Jeep Cherokee 2019 Limited, 2.0L turbo, ZF9 gearbox, Uconnect 8.4

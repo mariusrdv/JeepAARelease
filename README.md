@@ -1,7 +1,8 @@
 # JeepAA(Jeep android auto)
 JeepAA - intended for use with ELM327 bluetooth device + android device + Uconnect infotainment system (Panasonic manufacturer with android auto support).
+Communication with OBD2 adapter implemented with "ObdMetrics" library - https://github.com/tzebrowski/ObdMetrics
 
-- Tested only with Jeep Cherokee 2019 Limited, 2.0L turbo, ZF9 gearbox, Uconnect 8.4
+- Tested only with Jeep Cherokee 2019 Limited, 2.0L turbo, ZF9 gearbox, Uconnect 8.4 (Should work and with other Cherokee KL 2018+ petrol engines)
 - Bluetooth device: Vgate vLinker MC+ (should be ok and cheap ELM327 1.5)
 - Android device: Xiaomi Note 10 pro (Android 13). App supports Android 9 and up.
 

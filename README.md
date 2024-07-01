@@ -1,3 +1,6 @@
+# Moved to google play store
+I have released my app in google play store, but it is in early access(closed testing). To access app, you need just to join google group [jeepaa - Google Groups](https://groups.google.com/g/jeepaa). and then you should be able to access (same account email) https://play.google.com/store/apps/details?id=com.mariusrdv.jeepaa
+
 # JeepAA(Jeep android auto)
 JeepAA - intended for use with ELM327 bluetooth device + android device + Uconnect infotainment system (Panasonic manufacturer with android auto support).
 Communication with OBD2 adapter implemented with "ObdMetrics" library - https://github.com/tzebrowski/ObdMetrics
